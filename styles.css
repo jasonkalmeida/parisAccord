@@ -1,0 +1,40 @@
+body
+{
+	color:white;
+}
+
+.optionOne
+{
+	background-color:#91e2a1;
+	background-attachment: fixed;
+	background-repeat:no-repeat;
+}
+
+.optionTwo
+{
+	background-color:#83b3db;
+	background-attachment: fixed;
+}
+
+.content
+{
+	margin:0 auto;
+	display:block;
+	width:50%;
+	border-radius:5px;
+}
+
+.optionOne .content
+{
+	background-color:#9ff49f;
+}
+
+.optionTwo .content
+{
+	background-color:#8cd3db;
+}
+
+h1
+{
+	padding:5%;
+}
