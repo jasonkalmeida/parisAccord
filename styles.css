@@ -1,4 +1,4 @@
-h1
+h1, h3
 {
 	font-family:"Sanchez",serif;
 }
@@ -84,4 +84,9 @@ p
 .secondSpot
 {
 	text-align:right;
+}
+
+a, a:hover
+{
+	color:white;
 }
