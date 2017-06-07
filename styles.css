@@ -59,6 +59,18 @@ body
 	background-color:#8cd3db;
 }
 
+.optionOne .imgContent
+{
+	background-image: linear-gradient(rgba(159, 244, 159, 0.65), rgba(159, 244, 159, 0.65));
+	background-color: initial !important;
+}
+
+.optionTwo .imgContent
+{
+	background-image: linear-gradient(rgba(140,211,219, 0.65), rgba(140,211,219, 0.65));
+	background-color: initial !important;
+}
+
 .fp-tableCell > h1
 {
 	text-align:center;
