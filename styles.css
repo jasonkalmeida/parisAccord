@@ -1,27 +1,52 @@
+h1
+{
+	font-family:"Sanchez",serif;
+}
+
+p
+{
+	font-family:"Raleway", sans-serif;
+}
+
 body
 {
 	color:white;
 }
 
+.section
+{
+	padding-left: 5%;
+	padding-right: 5%;
+	background-attachment: fixed !important;
+	background-repeat:no-repeat;
+	background-position:50% 20% !important;
+	background-size: cover !important;
+	
+	
+}
+
+
 .optionOne
 {
 	background-color:#91e2a1;
-	background-attachment: fixed;
-	background-repeat:no-repeat;
+
+	
+	
 }
 
 .optionTwo
 {
 	background-color:#83b3db;
-	background-attachment: fixed;
 }
 
 .content
 {
-	margin:0 auto;
+	margin:auto;
 	display:block;
 	width:50%;
 	border-radius:5px;
+	padding:5%;
+	margin-bottom:2%;
 }
 
 .optionOne .content
@@ -34,7 +59,17 @@ body
 	background-color:#8cd3db;
 }
 
-h1
+.fp-tableCell > h1
 {
-	padding:5%;
+	text-align:center;
+}
+
+p
+{
+	font-size: 24px;
+}
+
+.secondSpot
+{
+	text-align:right;
 }
