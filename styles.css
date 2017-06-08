@@ -20,6 +20,7 @@ body
 	background-repeat:no-repeat;
 	background-position:50% 20% !important;
 	background-attachment: fixed !important;
+	background-size: cover !important;
 	
 }
 
