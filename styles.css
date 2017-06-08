@@ -105,6 +105,8 @@ a, a:hover
 	.section
 	{
 		background-position: scroll !important;
+		background-attachment: initial !important;
+		
 	}
 
 
