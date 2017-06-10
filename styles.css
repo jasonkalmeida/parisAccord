@@ -90,6 +90,11 @@ a, a:hover
 	color:white;
 }
 
+.shareSheet
+{
+	text-align: center;
+}
+
 @media only screen and (max-width: 920px) {
 
 	p
